@@ -1,12 +1,9 @@
-ines (40 sloc)  658 Bytes
- 
-
 #include "main.h"
 
 /**
  * string_nconcat - concatenates two strings.
- * @s1: for first string
- * @s2: for second string
+ * @s1: first string
+ * @s2: second string
  * @n: index
  * Return: char pointer
  */
